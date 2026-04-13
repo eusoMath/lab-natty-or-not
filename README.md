@@ -20,16 +20,15 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A descoberta de um planeta com possibilidade de vida.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+A ideia do meu projeto é utilizar o Google Gemini para a criação de um vídeo com um planeta "desconhecido" com cores estravagantes mas que á noite é possível ver luzes, certificando que há vida existente nesse planeta.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Google Gemini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensei em um prompt extremamente elaborado e detalhado com todos os aspectos que eu gostaria que tivéssem nesse video, e pedi para o Google Gemini gerar o vídeo
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
