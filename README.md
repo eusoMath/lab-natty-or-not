@@ -31,7 +31,7 @@ Google Gemini
 Pedi para o IA gerar um prompt com as instruções de um engenheiro de prompt, logo após, pedi para a IA gerar a imagem usando esse próprio prompt gerado por ela.
 
 ## 🚀 Resultados
-
+https://gemini.google.com/share/fe8f6ef3adc2
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
